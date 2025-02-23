@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic_calculator</string>
+    <string name="TitleText">Calculadora básica</string>
+    <string name="LblFirstNum">Primer número</string>
+    <string name="LblSecondNum">Segundo número</string>
+    <string name="PlusButton">+</string>
+    <string name="MinusButton">-</string>
+    <string name="MultiplicationButton">*</string>
+    <string name="DivisionButton">/</string>
+    <string name="ResultLbl">Resultado</string>
+</resources>
